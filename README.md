@@ -1,5 +1,5 @@
 # simrs-lite
-how to using ?
+how to use ?
 
 -import db <br/>
 -run app <br/>
